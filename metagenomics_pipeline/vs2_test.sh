@@ -1,0 +1,2 @@
+#conda activate vs2
+/ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/liuwei/software/miniconda3/envs/vs2/bin/virsorter run -w test_3.out -i /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/liuwei/cryosphere/Permafrost5_20211014/12/03.2.1_Spades_blastn_decontaminant_H2O/12_scaffolds_decontaminant_H2O.fasta --include-groups "dsDNAphage,ssDNA,lavidaviridae,NCLDV" --use-conda-off -j 4 all --latency-wait 600

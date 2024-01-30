@@ -1,0 +1,1 @@
+grep -f 48.id /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/liuwei/cryosphere/Permafrost3/202107_06_bc43_pooling/04.4_blastn_Virus-host-dephage-db/04.4.1_blastn_spades/virus_host_dephage_db.header2.csv>id.tag

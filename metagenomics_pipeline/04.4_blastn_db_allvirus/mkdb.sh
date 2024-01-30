@@ -1,0 +1,1 @@
+/hwfssz5/ST_HEALTH/P17Z10200N0246/USER/limin/software/ncbi-blast-2.9.0+/bin/makeblastdb -in /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/liuwei/software/CRISPROpenDB/SpacersDB.fasta -dbtype nucl -out SpacersDB

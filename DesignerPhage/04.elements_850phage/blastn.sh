@@ -1,0 +1,1 @@
+blastn -query all_kp850_genome.fa -db all_kp850_genome -num_threads 6 -out blastn_kp_850.txt -outfmt "6 qseqid sseqid stitle pident length mismatch gapopen qstart qend sstart send qlen slen evalue bitscore"

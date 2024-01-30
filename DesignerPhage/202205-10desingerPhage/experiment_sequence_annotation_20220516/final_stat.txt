@@ -1,0 +1,11 @@
+ID	Total length(bp)	GC content(%)	Gap(N bp)	Tail genes	Spike genes	Capsid genes	Head genes	Terminase gens	Circular
+KP_Generate_v6_11292	47186	51.96%	0	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_12421	54091	50.88%	0	Yes	Yes	Yes	Yes	No	non-circular
+KP_Generate_v6_13944	49412	52.36%	0	Yes	Yes	Yes	Yes	No	non-circular
+KP_Generate_v6_17710	59982	53.01%	0	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_17888	53370	52.02%	0	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_20860	51186	50.63%	0	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_24504	56074	51.92%	0	Yes	Yes	Yes	Yes	No	non-circular
+KP_Generate_v6_5638	56085	52.52%	10	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_6935	54294	52.20%	0	Yes	Yes	Yes	Yes	Yes	non-circular
+KP_Generate_v6_7294	52316	52.04%	0	Yes	Yes	Yes	Yes	Yes	non-circular

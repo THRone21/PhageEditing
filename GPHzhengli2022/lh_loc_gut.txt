@@ -1,0 +1,279 @@
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2011032485/201229_SEQ072_DP8400015750BR_L01_SP2011200168
+
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2011032486/201229_SEQ072_DP8400015750BR_L01_SP2011200169
+
+"/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2009024100/201210_SEQ121_DP8400015205TR_L01_SP2011100152
+
+"
+
+"/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2009024099/201210_SEQ121_DP8400015205TR_L01_SP2011100151
+
+"
+
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2011032483/201229_SEQ072_DP8400015750BR_L01_SP2011200167
+
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2009024098/201210_SEQ121_DP8400015205TR_L01_SP2011100150
+
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2011032488/201229_SEQ072_DP8400015750BR_L01_SP2011200170
+
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2204122467/220524_SEQ064_DP8450000788BR_L01_SP2204290286
+total 1.4G
+-rwxr-xr-x 1 cnsa_rs dipseq  232 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290286-150.report
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_150_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 663M May 24 03:58 DP8450000788BR_L01_150_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  30K May 24 03:58 DP8450000788BR_L01_150_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 684M May 24 03:58 DP8450000788BR_L01_150_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_150.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:39 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099014/220125_SEQ124_DP8400027409TR_L01_SP2201120152
+total 1.7G
+-rwxr-xr-x 1 cnsa_rs st_pmo  230 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120152-393.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_393_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 846M Jan 25 08:45 DP8400027409TR_L01_393_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_393_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 830M Jan 25 08:45 DP8400027409TR_L01_393_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_393.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:02 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099015/220125_SEQ124_DP8400027409TR_L01_SP2201120153
+total 2.1G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120153-394.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_394_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 08:45 DP8400027409TR_L01_394_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_394_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 08:45 DP8400027409TR_L01_394_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_394.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:05 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099018/220125_SEQ123_DP8400027083BR_L01_SP2201110523
+total 2.4G
+-rwxr-xr-x 1 cnsa_rs st_pmo  233 Jan 25 11:31 220125_SEQ123_DP8400027083BR_L01_SP2201110523-390.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_390_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.2G Jan 25 10:00 DP8400027083BR_L01_390_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_390_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.2G Jan 25 10:00 DP8400027083BR_L01_390_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 10:04 DP8400027083BR_L01_390.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 15:40 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099019/220125_SEQ124_DP8400027409TR_L01_SP2201120154
+total 2.7G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120154-395.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_395_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.4G Jan 25 08:45 DP8400027409TR_L01_395_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_395_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.3G Jan 25 08:45 DP8400027409TR_L01_395_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_395.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:07 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099020/220125_SEQ124_DP8400027409TR_L01_SP2201120155
+total 1.7G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120155-396.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_396_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 862M Jan 25 08:45 DP8400027409TR_L01_396_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_396_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 851M Jan 25 08:45 DP8400027409TR_L01_396_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_396.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:04 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099021/220125_SEQ124_DP8400027409TR_L01_SP2201120156
+total 1.9G
+-rwxr-xr-x 1 cnsa_rs st_pmo  233 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120156-397.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_397_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 964M Jan 25 08:45 DP8400027409TR_L01_397_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_397_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 934M Jan 25 08:45 DP8400027409TR_L01_397_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_397.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:04 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099022/220125_SEQ124_DP8400027409TR_L01_SP2201120157
+total 1.9G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120157-398.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_398_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 984M Jan 25 08:45 DP8400027409TR_L01_398_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_398_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 958M Jan 25 08:45 DP8400027409TR_L01_398_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_398.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:05 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099023/220125_SEQ124_DP8400027409TR_L01_SP2201120158
+total 1.8G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120158-399.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_399_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 903M Jan 25 08:45 DP8400027409TR_L01_399_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_399_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 880M Jan 25 08:45 DP8400027409TR_L01_399_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_399.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:03 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099024/220125_SEQ124_DP8400027409TR_L01_SP2201120159
+total 2.4G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 10:00 220125_SEQ124_DP8400027409TR_L01_SP2201120159-400.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:45 DP8400027409TR_L01_400_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.2G Jan 25 08:45 DP8400027409TR_L01_400_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:45 DP8400027409TR_L01_400_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.2G Jan 25 08:45 DP8400027409TR_L01_400_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:49 DP8400027409TR_L01_400.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:02 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099025/220125_SEQ124_DP8400026885TR_L01_SP2201120160
+total 1.2G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 09:52 220125_SEQ124_DP8400026885TR_L01_SP2201120160-433.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:50 DP8400026885TR_L01_433_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 604M Jan 25 08:50 DP8400026885TR_L01_433_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 08:50 DP8400026885TR_L01_433_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 621M Jan 25 08:50 DP8400026885TR_L01_433_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:53 DP8400026885TR_L01_433.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:23 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099028/220125_SEQ123_DP8400027083BR_L01_SP2201110524
+total 2.2G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 11:30 220125_SEQ123_DP8400027083BR_L01_SP2201110524-166.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_166_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 10:00 DP8400027083BR_L01_166_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_166_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 10:00 DP8400027083BR_L01_166_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 10:04 DP8400027083BR_L01_166.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 11:33 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099030/220125_SEQ124_DP8400026885TR_L01_SP2201120161
+total 1.3G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Jan 25 09:52 220125_SEQ124_DP8400026885TR_L01_SP2201120161-168.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:50 DP8400026885TR_L01_168_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 613M Jan 25 08:50 DP8400026885TR_L01_168_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:50 DP8400026885TR_L01_168_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 627M Jan 25 08:50 DP8400026885TR_L01_168_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:53 DP8400026885TR_L01_168.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:01 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099031/220125_SEQ124_DP8400026885TR_L01_SP2201120162
+total 895M
+-rwxr-xr-x 1 cnsa_rs st_pmo  230 Jan 25 09:52 220125_SEQ124_DP8400026885TR_L01_SP2201120162-435.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Jan 25 08:50 DP8400026885TR_L01_435_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 442M Jan 25 08:50 DP8400026885TR_L01_435_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Jan 25 08:50 DP8400026885TR_L01_435_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 454M Jan 25 08:50 DP8400026885TR_L01_435_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:53 DP8400026885TR_L01_435.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:02 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099032/220125_SEQ123_DP8400027083BR_L01_SP2201110525
+total 2.1G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Jan 25 11:30 220125_SEQ123_DP8400027083BR_L01_SP2201110525-392.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_392_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 10:00 DP8400027083BR_L01_392_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_392_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 10:00 DP8400027083BR_L01_392_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 10:04 DP8400027083BR_L01_392.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 11:34 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099033/220125_SEQ124_DP8400026885TR_L01_SP2201120163
+total 628M
+-rwxr-xr-x 1 cnsa_rs st_pmo  230 Jan 25 09:52 220125_SEQ124_DP8400026885TR_L01_SP2201120163-436.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Jan 25 08:50 DP8400026885TR_L01_436_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 310M Jan 25 08:50 DP8400026885TR_L01_436_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Jan 25 08:50 DP8400026885TR_L01_436_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 319M Jan 25 08:50 DP8400026885TR_L01_436_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:53 DP8400026885TR_L01_436.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:03 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2204122465/220524_SEQ064_DP8450000788BR_L01_SP2204290284
+total 1.4G
+-rwxr-xr-x 1 cnsa_rs dipseq  231 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290284-147.report
+-rwxr-xr-x 1 cnsa_rs dipseq  30K May 24 03:58 DP8450000788BR_L01_147_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 678M May 24 03:58 DP8450000788BR_L01_147_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_147_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 662M May 24 03:58 DP8450000788BR_L01_147_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_147.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:39 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099034/220125_SEQ123_DP8400027083BR_L01_SP2201110526
+total 2.3G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Jan 25 11:30 220125_SEQ123_DP8400027083BR_L01_SP2201110526-393.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_393_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.2G Jan 25 10:00 DP8400027083BR_L01_393_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Jan 25 10:01 DP8400027083BR_L01_393_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.1G Jan 25 10:00 DP8400027083BR_L01_393_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 10:04 DP8400027083BR_L01_393.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 11:33 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2112099036/220125_SEQ124_DP8400026885TR_L01_SP2201120165
+total 907M
+-rwxr-xr-x 1 cnsa_rs st_pmo  228 Jan 25 09:52 220125_SEQ124_DP8400026885TR_L01_SP2201120165-438.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Jan 25 08:50 DP8400026885TR_L01_438_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 454M Jan 25 08:50 DP8400026885TR_L01_438_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Jan 25 08:50 DP8400026885TR_L01_438_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 455M Jan 25 08:50 DP8400026885TR_L01_438_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Jan 25 08:53 DP8400026885TR_L01_438.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Jan 25 10:02 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203113011/220331_SEQ103_DP8400028861TR_L01_SP2203110367
+total 1.2G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Mar 31 14:00 220331_SEQ103_DP8400028861TR_L01_SP2203110367-451.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Mar 31 12:40 DP8400028861TR_L01_451_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 614M Mar 31 12:40 DP8400028861TR_L01_451_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Mar 31 12:40 DP8400028861TR_L01_451_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 581M Mar 31 12:40 DP8400028861TR_L01_451_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Mar 31 12:44 DP8400028861TR_L01_451.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Mar 31 15:38 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203113012/220331_SEQ103_DP8400028861TR_L01_SP2203110368
+total 1.5G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Mar 31 14:00 220331_SEQ103_DP8400028861TR_L01_SP2203110368-452.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Mar 31 12:40 DP8400028861TR_L01_452_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 763M Mar 31 12:40 DP8400028861TR_L01_452_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Mar 31 12:40 DP8400028861TR_L01_452_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 722M Mar 31 12:40 DP8400028861TR_L01_452_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Mar 31 12:44 DP8400028861TR_L01_452.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Mar 31 15:41 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203113013/220331_SEQ103_DP8400028861TR_L01_SP2203110369
+total 1.2G
+-rwxr-xr-x 1 cnsa_rs st_pmo  231 Mar 31 14:00 220331_SEQ103_DP8400028861TR_L01_SP2203110369-453.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Mar 31 12:40 DP8400028861TR_L01_453_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 588M Mar 31 12:40 DP8400028861TR_L01_453_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  28K Mar 31 12:40 DP8400028861TR_L01_453_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 553M Mar 31 12:40 DP8400028861TR_L01_453_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 151K Mar 31 12:44 DP8400028861TR_L01_453.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  356 Mar 31 18:05 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT5/P17Z10200N0246_Temp/D2112098650/220220_SEQ021_FP100003525BR_L01_SP2201120150
+total 5.3G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Feb 20 07:00 220220_SEQ021_FP100003525BR_L01_SP2201120150-166.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Feb 20 05:48 FP100003525BR_L01_166_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 2.8G Feb 20 05:48 FP100003525BR_L01_166_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Feb 20 05:48 FP100003525BR_L01_166_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 2.6G Feb 20 05:48 FP100003525BR_L01_166_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 150K Feb 20 05:50 FP100003525BR_L01_166.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  352 Feb 20 14:45 md5.txt
+/jdfssz2/CNGB_DATA/DIPSEQ/DIPSEQT5/P17Z10200N0246_Temp/D2112098651/220220_SEQ021_FP100003525BR_L01_SP2201120151
+total 4.1G
+-rwxr-xr-x 1 cnsa_rs st_pmo  232 Feb 20 07:00 220220_SEQ021_FP100003525BR_L01_SP2201120151-392.report
+-rwxr-xr-x 1 cnsa_rs st_pmo  30K Feb 20 05:48 FP100003525BR_L01_392_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 2.2G Feb 20 05:48 FP100003525BR_L01_392_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo  29K Feb 20 05:48 FP100003525BR_L01_392_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs st_pmo 1.9G Feb 20 05:48 FP100003525BR_L01_392_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs st_pmo 150K Feb 20 05:50 FP100003525BR_L01_392.report.html
+-rwxr-xr-x 1 cnsa_rs st_pmo  352 Feb 20 14:31 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2204122468/220524_SEQ064_DP8450000788BR_L01_SP2204290287
+total 378M
+-rwxr-xr-x 1 cnsa_rs dipseq  231 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290287-152.report
+-rwxr-xr-x 1 cnsa_rs dipseq  27K May 24 03:58 DP8450000788BR_L01_152_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 189M May 24 03:58 DP8450000788BR_L01_152_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  27K May 24 03:58 DP8450000788BR_L01_152_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 189M May 24 03:58 DP8450000788BR_L01_152_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_152.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:39 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203115252/220524_SEQ064_DP8450000788BR_L01_SP2204290280
+total 1.5G
+-rwxr-xr-x 1 cnsa_rs dipseq  232 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290280-140.report
+-rwxr-xr-x 1 cnsa_rs dipseq  30K May 24 03:58 DP8450000788BR_L01_140_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 739M May 24 03:58 DP8450000788BR_L01_140_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_140_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 730M May 24 03:58 DP8450000788BR_L01_140_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_140.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:40 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203115253/220524_SEQ064_DP8450000788BR_L01_SP2204290281
+total 1.6G
+-rwxr-xr-x 1 cnsa_rs dipseq  232 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290281-141.report
+-rwxr-xr-x 1 cnsa_rs dipseq  30K May 24 03:58 DP8450000788BR_L01_141_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 776M May 24 03:58 DP8450000788BR_L01_141_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_141_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 769M May 24 03:58 DP8450000788BR_L01_141_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_141.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:40 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2203115255/220524_SEQ064_DP8450000788BR_L01_SP2204290282
+total 1.4G
+-rwxr-xr-x 1 cnsa_rs dipseq  231 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290282-142.report
+-rwxr-xr-x 1 cnsa_rs dipseq  30K May 24 03:58 DP8450000788BR_L01_142_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 726M May 24 03:58 DP8450000788BR_L01_142_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_142_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 707M May 24 03:58 DP8450000788BR_L01_142_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_142.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:40 md5.txt
+/ldfssz2/zebra_bgiseq500/BGISEQ02/DIPSEQ/DIPSEQT1/P17Z10200N0246_Temp/D2204122466/220524_SEQ064_DP8450000788BR_L01_SP2204290285
+total 982M
+-rwxr-xr-x 1 cnsa_rs dipseq  231 May 24 05:37 220524_SEQ064_DP8450000788BR_L01_SP2204290285-149.report
+-rwxr-xr-x 1 cnsa_rs dipseq  28K May 24 03:58 DP8450000788BR_L01_149_1.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 484M May 24 03:58 DP8450000788BR_L01_149_1.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq  29K May 24 03:58 DP8450000788BR_L01_149_2.fq.fqStat.txt
+-rwxr-xr-x 1 cnsa_rs dipseq 498M May 24 03:58 DP8450000788BR_L01_149_2.fq.gz
+-rwxr-xr-x 1 cnsa_rs dipseq 151K May 24 04:02 DP8450000788BR_L01_149.report.html
+-rwxr-xr-x 1 cnsa_rs dipseq  386 May 24 05:39 md5.txt

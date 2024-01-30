@@ -1,0 +1,2 @@
+conda activate /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/luoyunzhe/software/miniconda3/envs/virsorter
+/ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/luoyunzhe/software/virsorter1/VirSorter/wrapper_phage_contigs_sorter_iPlant.pl -f ./03.2_Spades/scaffolds.fasta --db 1 --wdir 05.1_VirSorter1 --ncpu 4 --data-dir /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/luoyunzhe/software/virsorter1/virsorter-data 2>r5.1_VirSorter.err

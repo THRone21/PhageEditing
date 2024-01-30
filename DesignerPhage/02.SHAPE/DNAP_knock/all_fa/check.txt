@@ -1,0 +1,383 @@
+==> CPB0008.fa <==
+>NODE_1_length_49569_cov_71.844500
+
+==> CPB0009.fa <==
+>NODE_1_length_48362_cov_71.654882
+
+==> CPB0010.fa <==
+>NODE_1_length_49618_cov_128.241890
+
+==> CPB0011.fa <==
+>NODE_1_length_49569_cov_69.354360
+
+==> CPB0012.fa <==
+>NODE_1_length_40611_cov_15.496843
+
+==> CPB0013.fa <==
+>NODE_1_length_49570_cov_71.775726
+
+==> CPB0014.fa <==
+>NODE_1_length_35688_cov_56.932240
+
+==> CPB0020.fa <==
+>NODE_1_length_45699_cov_77.126693
+
+==> CPB0023.fa <==
+>NODE_1_length_45699_cov_78.470935
+
+==> CPB0113.fa <==
+>NODE_1_length_44897_cov_87.414609
+
+==> CPB0119.fa <==
+>NODE_1_length_40863_cov_44.083775
+
+==> CPB0121.fa <==
+>NODE_1_length_44839_cov_41.030038
+
+==> CPB0122.fa <==
+>NODE_1_length_44897_cov_87.493426
+
+==> CPB0125.fa <==
+>NODE_1_length_44839_cov_40.962190
+
+==> CPB0127.fa <==
+>NODE_1_length_44839_cov_40.780932
+
+==> CPB0135.fa <==
+>NODE_1_length_44897_cov_87.578394
+
+==> CPB0136.fa <==
+>NODE_1_length_44897_cov_87.460380
+
+==> CPB0156.fa <==
+>NODE_1_length_42754_cov_42.396992
+
+==> CPB0159.fa <==
+>NODE_1_length_49447_cov_29.156537
+
+==> CPB0170.fa <==
+>NODE_1_length_46784_cov_38.680636
+
+==> CPB0171.fa <==
+>NODE_1_length_46784_cov_37.948439
+
+==> CPB0173.fa <==
+>NODE_1_length_61261_cov_29.280320
+
+==> CPB0174.fa <==
+>NODE_1_length_45798_cov_83.401643
+
+==> CPB0183.fa <==
+>NODE_1_length_46083_cov_39.781595
+
+==> CPB0185.fa <==
+>NODE_1_length_40210_cov_19.345231
+
+==> CPB0189.fa <==
+>NODE_1_length_47122_cov_4.984148
+
+==> CPB0192.fa <==
+>NODE_1_length_39227_cov_50.401562
+
+==> CPB0203.fa <==
+>NODE_1_length_41141_cov_94.282515
+
+==> CPB0207.fa <==
+>NODE_1_length_50443_cov_31.872132
+
+==> CPB0212.fa <==
+>NODE_1_length_49230_cov_20.353937
+
+==> CPB0215.fa <==
+>NODE_1_length_44535_cov_36.741073
+
+==> CPB0217.fa <==
+>NODE_1_length_42430_cov_42.654755
+
+==> CPB0221.fa <==
+>NODE_1_length_180165_cov_7.947730
+
+==> CPB0239.fa <==
+>NODE_1_length_43638_cov_30.805645
+
+==> CPB0243.fa <==
+>NODE_1_length_298475_cov_5.426943
+
+==> CPB0244.fa <==
+>NODE_1_length_40653_cov_26.536019
+
+==> CPB0245.fa <==
+>NODE_1_length_45645_cov_39.717586
+
+==> CPB0247.fa <==
+>NODE_1_length_47726_cov_35.617964
+
+==> CPB0249.fa <==
+>NODE_1_length_40329_cov_43.270799
+
+==> CPB0259.fa <==
+>NODE_1_length_40728_cov_40.644830
+
+==> CPB0260.fa <==
+>NODE_1_length_38852_cov_45.285055
+
+==> CPB0261.fa <==
+>NODE_1_length_38852_cov_46.074403
+
+==> CPB0266.fa <==
+>NODE_1_length_41138_cov_26.450761
+
+==> CPB0290.fa <==
+>NODE_1_length_61237_cov_29.488230
+
+==> CPB0296.fa <==
+>NODE_1_length_58597_cov_23.636519
+
+==> CPB0303.fa <==
+>NODE_1_length_44484_cov_48.936100
+
+==> CPB0306.fa <==
+>NODE_1_length_44410_cov_49.709548
+
+==> CPB0307.fa <==
+>NODE_1_length_44410_cov_49.848112
+
+==> CPB0310.fa <==
+>NODE_1_length_45334_cov_49.201352
+
+==> CPB0311.fa <==
+>NODE_1_length_44410_cov_50.247323
+
+==> CPB0312.fa <==
+>NODE_1_length_44410_cov_50.238124
+
+==> CPB0313.fa <==
+>NODE_1_length_44418_cov_33.005524
+
+==> CPB0315.fa <==
+>NODE_1_length_44410_cov_49.953872
+
+==> CPB0319.fa <==
+>NODE_1_length_40696_cov_54.743387
+
+==> CPB0323.fa <==
+>NODE_1_length_45337_cov_49.336337
+
+==> CPB0324.fa <==
+>NODE_1_length_44418_cov_3.637132
+
+==> CPB0325.fa <==
+>NODE_1_length_40695_cov_54.385655
+
+==> CPB0328.fa <==
+>NODE_1_length_40639_cov_54.706855
+
+==> CPB0329.fa <==
+>NODE_1_length_41284_cov_43.629364
+
+==> CPB0332.fa <==
+>NODE_1_length_50184_cov_32.971968
+
+==> CPB0333.fa <==
+>NODE_1_length_70529_cov_8.684529
+
+==> CPB0334.fa <==
+>NODE_1_length_43767_cov_10.882162
+
+==> CPB0335.fa <==
+>NODE_1_length_43766_cov_27.260646
+
+==> CPB0338.fa <==
+>NODE_1_length_39748_cov_41.269892
+
+==> CPB0339.fa <==
+>NODE_1_length_39895_cov_62.684882
+
+==> CPB0340.fa <==
+>NODE_1_length_39991_cov_66.562997
+
+==> CPB0342.fa <==
+>NODE_1_length_88917_cov_28.937669
+
+==> CPB0343.fa <==
+>NODE_1_length_88859_cov_20.608879
+
+==> CPB0346.fa <==
+>NODE_1_length_88859_cov_20.709750
+
+==> CPB0349.fa <==
+>NODE_1_length_88859_cov_20.410075
+
+==> CPB0376.fa <==
+>NODE_1_length_42378_cov_49.195567
+
+==> CPB0388.fa <==
+>NODE_1_length_43197_cov_42.136806
+
+==> CPB0389.fa <==
+>NODE_1_length_43197_cov_42.144944
+
+==> CPB0400.fa <==
+>NODE_1_length_42289_cov_43.056387
+
+==> CPB0401.fa <==
+>NODE_1_length_42306_cov_42.669673
+
+==> CPB0402.fa <==
+>NODE_1_length_35879_cov_22.950313
+
+==> CPB0403.fa <==
+>NODE_1_length_35002_cov_18.794327
+
+==> CPB0404.fa <==
+>NODE_1_length_43142_cov_42.145198
+
+==> CPB0405.fa <==
+>NODE_1_length_48067_cov_23.660751
+
+==> CPB0406.fa <==
+>NODE_1_length_20741_cov_91.022153
+
+==> CPB0407.fa <==
+>NODE_1_length_42471_cov_42.906456
+
+==> CPB0737.fa <==
+>NODE_1_length_45719_cov_140.193094
+
+==> CPB0738.fa <==
+>NODE_1_length_45719_cov_140.306797
+
+==> CPB0739.fa <==
+>NODE_1_length_92597_cov_13.377818
+
+==> CPB0740.fa <==
+>NODE_1_length_45429_cov_83.569085
+
+==> CPB0741.fa <==
+>NODE_1_length_60142_cov_59.465812
+
+==> CPB0743.fa <==
+>NODE_1_length_66513_cov_58.131023
+
+==> CPB0745.fa <==
+>NODE_1_length_61711_cov_58.105413
+
+==> CPB0746.fa <==
+>NODE_1_length_61090_cov_58.384918
+
+==> CPB0747.fa <==
+>NODE_1_length_66682_cov_53.321718
+
+==> CPB0748.fa <==
+>NODE_1_length_62020_cov_57.794327
+
+==> CPB0749.fa <==
+>NODE_1_length_66863_cov_14.967775
+
+==> CPB0749_sanger.fa <==
+>NODE_1_length_66620_cov_14.967775
+
+==> CPB0750.fa <==
+>NODE_1_length_66561_cov_29.585287
+
+==> CPB0751.fa <==
+>NODE_1_length_61235_cov_58.554825
+
+==> CPB0752.fa <==
+>NODE_1_length_61924_cov_63.094454
+
+==> CPB0753.fa <==
+>NODE_1_length_66325_cov_16.803078
+
+==> CPB0755.fa <==
+>NODE_1_length_61897_cov_58.177807
+
+==> CPB0756.fa <==
+>NODE_1_length_61282_cov_23.823617
+
+==> CPB0757.fa <==
+>NODE_1_length_66296_cov_16.975074
+
+==> CPB0758.fa <==
+>NODE_1_length_66496_cov_95.638405
+
+==> CPB0759.fa <==
+>NODE_1_length_46121_cov_84.397614
+
+==> CPB0760.fa <==
+>NODE_1_length_45466_cov_141.004489
+
+==> CPB0761.fa <==
+>NODE_1_length_42903_cov_83.272615
+
+==> CPB0762.fa <==
+>NODE_1_length_92428_cov_19.382190
+
+==> CPB0767.fa <==
+>NODE_1_length_66376_cov_95.344194
+
+==> CPB0768.fa <==
+>NODE_1_length_66376_cov_96.382714
+
+==> CPB0769.fa <==
+>NODE_1_length_65409_cov_96.568453
+
+==> CPB0770.fa <==
+>NODE_1_length_66308_cov_96.967776
+
+==> CPB0771.fa <==
+>NODE_1_length_61441_cov_24.533546
+
+==> CPB0773.fa <==
+>NODE_1_length_60689_cov_7.828968
+
+==> CPB0775.fa <==
+>NODE_1_length_66329_cov_51.645897
+
+==> CPB0776.fa <==
+>NODE_1_length_34400_cov_7.417348
+
+==> CPB0777.fa <==
+>NODE_1_length_66374_cov_95.526864
+
+==> CPB0777_sanger.fa <==
+>NODE_1_length_66274_cov_95.526864
+
+==> CPB0778.fa <==
+>NODE_1_length_61067_cov_57.228283
+
+==> CPB0780.fa <==
+>NODE_1_length_45650_cov_48.813094
+
+==> CPB0781.fa <==
+>NODE_1_length_61667_cov_22.996509
+
+==> CPB0782.fa <==
+>NODE_1_length_46832_cov_5.969424
+
+==> CPB0783.fa <==
+>NODE_1_length_43256_cov_147.551636
+
+==> CPB0784.fa <==
+>NODE_1_length_44919_cov_5.778854
+
+==> CPB0787.fa <==
+>NODE_1_length_42401_cov_135.122814
+
+==> CPB0788.fa <==
+>NODE_1_length_64872_cov_56.723063
+
+==> CPB0789.fa <==
+>NODE_1_length_66373_cov_96.507445
+
+==> CPB0789_sanger.fa <==
+>NODE_1_length_66273_cov_96.507445
+
+==> CPB0790.fa <==
+>NODE_1_length_60659_cov_58.657902
+
+==> CPB0791.fa <==
+>NODE_1_length_60668_cov_14.527003
+
+==> CPB0793.fa <==
+>NODE_1_length_42867_cov_83.667633

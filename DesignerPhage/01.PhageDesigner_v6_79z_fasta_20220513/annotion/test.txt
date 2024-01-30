@@ -1,0 +1,1 @@
+KP|Generate_v6_9014_39	AOT23872.1 capsid protein [Klebsiella phage KP-Rio/2015]	98.230	339	6	0	1	339	1	339	0.0	697

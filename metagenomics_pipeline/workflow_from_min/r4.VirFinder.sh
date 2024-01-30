@@ -1,0 +1,2 @@
+
+/hwfssz5/ST_INFECTION/GlobalDatabase/user/fengqikai/software/.conda/envs/RSEM/lib/R/bin/Rscript /ldfssz1/ST_INFECTION/P20Z10200N0206_pathogendb/fengqikai/project/Wuhan_Virology_test69/scripts/Rscripts/Trinity/Virfinder.Trinity.R /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/luoyunzhe/envirmeta/virome/test/VM2/04_metaSPAdes/result.out /ldfssz1/ST_INFECTION/P17Z10200N0246_Phage_XMF/USER/luoyunzhe/envirmeta/virome/test/VM2/04_VirFinder/VM2.VirFinder.filter.csv 2>r4.VirFinder.sh.err 
